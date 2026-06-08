@@ -8,7 +8,7 @@ In this assignment, we'll be writing functions that affect the DOM in various wa
 
 **These functions don't need to `return` anything.**
 
-1. Write a function that puts a line through the text of the first `<li>` in the unordered "Arguments" list (`<ul`). Since this function always does the same thing, it requires no parameters!
+1. Write a function that puts a line through the text of the first `<li>` in the unordered "Arguments" list (`<ul`). Since this function always does the same thing, it requires no parameters! Look up how to do this!
 2. Now call it! The first list item (`<li>`) should get what's known as a "strikethrough" style.
 3. Write a function that takes in a string representing a DOM element's `id` and a string representing a url. The function should set the image with that `id` to have that url as its image source.
 4. Now use that function to set the three images in the Image Area section to show three images of your choice. You'll need three separate calls to your function.  Make sure you pass in the correct parameters!
